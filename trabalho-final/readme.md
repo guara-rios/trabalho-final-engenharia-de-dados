@@ -33,10 +33,11 @@ Transforma os dados da camada silver para a camada gold:
 -Top 10 Best Sellers melhor avaliados
 -Top 10 Best Sellers pior avaliados
 
-### trabalho_final
+### 4. trabalho_final
 Executa toda a pipeline:
 -Usa a função que transforma os dados da camada bronze para silver.
 -Usa a função que transforma os dados da camada silver para gold.
 -Garante que todas as pastas existam antes de rodar o código.
 -Salva os arquivos em suas pastas.
+
 
